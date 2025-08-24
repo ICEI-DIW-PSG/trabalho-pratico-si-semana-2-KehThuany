@@ -3,9 +3,12 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Ketrean Thuany Gomes Prates
+- Matricula: 897641
 
 ## Print da tela da página criada (Curriculum Vitae)
+![Imagem do Curriculum](images/ImgC.jpeg)
 
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
+
+![Imagem de Inspeção](images/image.png)
